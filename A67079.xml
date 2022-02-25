@@ -1,0 +1,531 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The compleat bee-master; or, A discourse of bees shewing the best way of improving them, and discovering the fallacies that are imposed by some, for private lucre, on the credulous lovers and admirers of these insects. By J. Worlidge, gent.</title>
+            <title>Apiarum; or A discourse of bees</title>
+            <author>Worlidge, John, fl. 1660-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67079</idno>
+            <idno type="STC">Wing W3596A</idno>
+            <idno type="STC">ESTC R221250</idno>
+            <idno type="EEBO-CITATION">99832585</idno>
+            <idno type="PROQUEST">99832585</idno>
+            <idno type="VID">37059</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67079)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37059)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2105:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The compleat bee-master; or, A discourse of bees shewing the best way of improving them, and discovering the fallacies that are imposed by some, for private lucre, on the credulous lovers and admirers of these insects. By J. Worlidge, gent.</title>
+                  <title>Apiarum; or A discourse of bees</title>
+                  <author>Worlidge, John, fl. 1660-1698.</author>
+               </titleStmt>
+               <extent>[8], 28, [4] p., [1] leaf of plates   </extent>
+               <publicationStmt>
+                  <publisher>printed for, and sold by G. Conyers, at the Ring in Little-Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Frontipiece plate of beehive beneath a fruit tree.</note>
+                  <note>With two final advertisement leaves and contents on p. 28.</note>
+                  <note>Another edition of John Worlidge's "Apiarum; or a discourse of bees", London, 1676, reissued with a cancel titlepage.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bees --  Early works to 1800.</term>
+               <term>Bee culture --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37059:1"/>
+            <pb facs="tcp:37059:1"/>
+            <p>THE COMPLEAT Bee-Maſter; OR, A DISCOURSE OF BEES:</p>
+            <p>Shewing the beſt Way of IMPROVING Them, and Diſcovering the Fallacies that are impoſed by ſome, for private Lucre, on the credulous Lovers and Admirers of theſe <hi>Inſects.</hi>
+            </p>
+            <p>By J. WORLIDGE, Gent.</p>
+            <p>LONDON: Printed for, and Sold by G. <hi>Conyers,</hi> at the Ring in <hi>Little-Britain.</hi> 1698. Price ſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 6d:</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:37059:2" rendition="simple:additions"/>
+            <pb facs="tcp:37059:2"/>
+            <p>
+               <figure>
+                  <figDesc>an apiary beneath a tree</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:37059:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:37059:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:37059:4"/>
+            <pb facs="tcp:37059:4"/>
+            <head>To the READER.</head>
+            <p>
+               <hi>AFter ſo many worthy Authors that have publickly impart<g ref="char:EOLhyphen"/>ed ſo much of Art and In<g ref="char:EOLhyphen"/>genuity to the World, con<g ref="char:EOLhyphen"/>cerning the ordering and governing this ſmall Animal the</hi> Bee; <hi>and eſpecially Mr.</hi> Butler, <hi>whoſe Treatiſe of the</hi> Feminine Monarchy <hi>hath been judged by perſons of Learning to be the moſt complete that ever was written of any one Natural subject, it will not be expected that any one ſhould exceed him, as to the general Scope of his Treatiſe. But ſeeing that diuers Perſons have been for theſe ma<g ref="char:EOLhyphen"/>ny years, and yet are willing to endeavour an Improvement and Advancement of</hi> Bees, <hi>to make them more profitable, and bring</hi>
+               <pb facs="tcp:37059:5"/> 
+               <hi>them into greater eſteem amongſt us than formerly; and that by novel Ways and Me<g ref="char:EOLhyphen"/>thods of Ordering them, ſome Perſons of very good Quality and Parts, have taken a great deal of pains and uſed much skill to obſerve the Nature of theſe Curious, Induſtrious and Profitable Inſects, not thinking it an undervaluing to their Reputation, al<g ref="char:EOLhyphen"/>though</hi>
+            </p>
+            <q>
+               <l>Slight is the Theme, yet not the Glory ſlight,</l> 
+               <bibl>[Virgil.]</bibl>
+            </q>
+            <p>
+               <hi>Others on the contrary, wanting that Reaſon and Experience they pretended to, have abuſ<g ref="char:EOLhyphen"/>ed the World with their fictitious Notions concerning</hi> Bees, <hi>which have made a greater</hi> Humm <hi>than all the Bee-books that have been publiſhed before. That humming noiſe was the occaſion of my reviewing thoſe Obſervati<g ref="char:EOLhyphen"/>ons I had formerly made concerning theſe</hi> ſmall, profitable, laborious, loyal, nimble, cunning, induſtriou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>and</hi> reſolute <hi>Animals; ſo reſolved, that they cannot be compelled to digreſs from their own natural Inclinations, nor yet reſtrained from their prodigious En<g ref="char:EOLhyphen"/>creaſe, by which they preſerve their Colonies, which otherwiſe would ſuddenly be extinguiſh<g ref="char:EOLhyphen"/>ed: So profitable and laborious, that by the</hi>
+               <pb facs="tcp:37059:5"/> 
+               <hi>ordinary Methods of ordering them, they fully recompence all your Care and Coſt you need to beſtow on them with a ſufficient over<g ref="char:EOLhyphen"/>plus; and ſo nimble and cunning, that they are not to be plaid withal, nor governed by ſuch that know not how to govern themſelves nor their Pens: But of any Creatures what ſo<g ref="char:EOLhyphen"/>ever the most eaſily managed and improved, if you proſecute their own ways or intentions that Nature prompts them to, as many poor and ignorant Country Houſewifes can tell you; and the moſt learned and accompliſhed</hi> Poets <hi>and</hi> Philoſophers <hi>have been forc'd to condeſcend unto: who after all their ſubtil diſquiſitions into the Natures and Properties of them, have ever concluded with admirati<g ref="char:EOLhyphen"/>on of their Vertues and their</hi> Knowledge, Order, Government, Art <hi>and</hi> Induſtry. <hi>Therefore if you deſign an improvement of them beyond the Ordinary Method, it is beſt firſt to underſtand their Natures, and where<g ref="char:EOLhyphen"/>in the common and ordinary Method of pro<g ref="char:EOLhyphen"/>viding for them proves deficient, and then endeavour to ſupply all thoſe defects and re<g ref="char:EOLhyphen"/>move all obſtructions that ſtand in their way, that you may rather ingratiate your ſelf into their favour, by pleaſing them in every thing, than in the leaſt to thwart or croſs them. for which Love of yours to them, they will</hi>
+               <pb facs="tcp:37059:6"/> 
+               <hi>recompence you manifold. For their de<g ref="char:EOLhyphen"/>light is in warm and dry Habitations, not narrow and tall, troubleſom to aſcend, but broad and ſhallow. For it was not the Love the</hi> Bees <hi>bare to</hi> Ludovicus Vives <hi>that made them ſettle under the Leads o<g ref="char:EOLhyphen"/>ver his study in</hi> Oxford, <hi>and conti<g ref="char:EOLhyphen"/>nue there above a hundred years; nor could a narrow place have afforded ſo great a Maſs of Honey as was taken thence upon renewing the Leads, Auno 1630. as Mr.</hi> Butler <hi>hath related: But it was the conve<g ref="char:EOLhyphen"/>niency of the place being broad, warm and dry, that invited them to ſo long and con<g ref="char:EOLhyphen"/>tinued a Succeſſion: In other places of the ſame nature I have known the like, although not for ſo long a time. And as the</hi> Bees <hi>de<g ref="char:EOLhyphen"/>light in a cloſe and private Dwelling, ſo you muſt endeavour to preſerve them by the ſmallneſs and cloſeneſs of the Doors to keep out their enemies, which are not a few, and ſave them much of their labour in a continual watch for a great part of the year, and ſecure them in their Sleep at other times from being deſtroyed or deprived of their Wealth; yet not to ſtraiten them in their buſie times of gathering. Many other things you may obſerve that they naturally in<g ref="char:EOLhyphen"/>cline unto, wherein you may aſſiſt them
+<pb facs="tcp:37059:6"/> But be ſure not to plant any thing near, nor do any act that may be offenſive or Heterogeneal to their Natures, whatſoeuer any adviſe you to. Nor do you feed your ſelues with vain imaginations, that they will fix their Combs to Frames of your Fancy, nor work when and where you pleaſe; nor deſert their Lechery, when you inſtruct them to the contrary, unleſs you haue a more curious way of Caſtration than is yet diſcovered. Nor do you ex<g ref="char:EOLhyphen"/>pect ſo vaſt a profit, as ſome have en<g ref="char:EOLhyphen"/>deavoured to perſwade you unto, only to invite you to be a Purchaſer; leſt you reckon your Chickens before they be hatch<g ref="char:EOLhyphen"/>ed. To aſſiſt you in theſe Diſquiſitions, I have put you to this ſmall charge: if it may be uſeful to you in proſecuting the Improvement of this little Animal, or in preventing your precipitating into Miſ<g ref="char:EOLhyphen"/>takes and Errours by any</hi> Ignis Fatuus, <hi>I have my Deſire and Reward. But whether thoſe other new pretended Me<g ref="char:EOLhyphen"/>thods of vaſt Advantage, that are ſo dear bought, or theſe ordinary and cheap Inſtructions will ſucceed most to your Content and Profit, time and Expe<g ref="char:EOLhyphen"/>rience only can demonſtrate; to which I muſt ſubmit. This nevertheleſs I can
+<pb facs="tcp:37059:7"/> aſſure you, that what I have in this ſmall Tract poſitively affirmed, is either from Experience or good Authority; when peradventure what you pay dearer for, may be barely Suppoſitions; and yet at your own Cost to be Experimented.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:37059:7"/>
+            <head>CHAP. I. <hi>Of the Univerſality of Bees and the Antiquity of their Colonies.</hi>
+            </head>
+            <p>THE <hi>Bee</hi> is an Inſect more univerſally diſperſed tho<g ref="char:EOLhyphen"/>roughout the World than any other that is known to be uſeful, and their melliſluous Colonies of very great Antiquity; <hi>Sampſon</hi> feeding on the Honey made by a Swarm of Bees that hiv'd themſelves in the Carcaſe of a <hi>Lyon,</hi> and <hi>Jonathan</hi> taſted of the Honey that dropped from a full <hi>Comb</hi> in a Wood. Pro<g ref="char:EOLhyphen"/>phane Authors alſo have not paſſed theſe Inſects over in ſilence, the moſt ancient Poets and Naturaliſts having written large<g ref="char:EOLhyphen"/>ly of them; as <hi>Heſiod, Philistus, Menecra<g ref="char:EOLhyphen"/>tes</hi> and many others. <hi>Aristomarchus</hi> for fifty eight years did little elſe but keep <hi>Bees,</hi> and <hi>Philiſtus</hi> employ'd his whole Life-time about them, as <hi>Pliny</hi> relates, lib. 11. cap. 9. <hi>Honey</hi> being much more in e<g ref="char:EOLhyphen"/>ſteem
+<pb n="2" facs="tcp:37059:8"/> in thoſe Ages than in theſe, <hi>sugar</hi> having lately gained a Repute above it. For if you obſerve moſt of the ancient Inſtructions for Conſerving, Preſerving, or other Confectionating, <hi>Honey</hi> was then preſcribed where <hi>sugar</hi> is now: So that thence it may be preſum'd that <hi>Bees</hi> were more nouriſh'd and cheriſh'd than in theſe later times. Such an opinion had the An<g ref="char:EOLhyphen"/>cients of Honey, that in caſe it were ga<g ref="char:EOLhyphen"/>thered by the <hi>Bees</hi> under a certain Con<g ref="char:EOLhyphen"/>ſtellation, that it would be ſo heavenly a ſweet Liquour that no one thing in the World might be comparable to it <hi>(Pliny lib. 11. cap. 14.)</hi> for the univerſal Cure of Diſeaſes, and reſtoring from Death to Life, like unto that Celeſtial and divine <hi>Nectar</hi> which they ſuppoſed did immortalize the Gods above.</p>
+            <p>There are ſcarce any parts in the known World, unleſs in the <hi>Torrid Zone,</hi> where theſe Inſects are not harbour'd; from <hi>Aſia</hi> through all <hi>Europe</hi> unto the <hi>North America,</hi> the vaſt Territories of <hi>Ruſſia, Tartary</hi> and other remote parts from the Southern Seas, being plentifully ſtock'd with them, <hi>su<g ref="char:EOLhyphen"/>gar</hi> not being there ſo uſual.</p>
+            <p>But how theſe numerous Inſects firſt came to be reduc'd into Colonies is uncer<g ref="char:EOLhyphen"/>tain, unleſs <hi>Ariſt<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> the Son of <hi>Apollo</hi> and
+<pb n="3" facs="tcp:37059:8"/> King of <hi>Arcadia</hi> (as ſome report) was the firſt Diſcoverer of their Uſe and Order; a Work becoming ſo great a Perſon. But certain it is, that they in ancient times had their reſidence in hollow Trees in ancient Woods, as that of <hi>Jonathan's</hi> finding Ho<g ref="char:EOLhyphen"/>ney there ſeems to aſſert: and in other Concavities.</p>
+            <q>
+               <lg>
+                  <l>
+                     <hi>Oft in deep Caves (if Fame a truth report)</hi>
+                  </l>
+                  <l>
+                     <hi>Low underneath they vault their Waxen Court;</hi>
+                  </l>
+                  <l>
+                     <hi>And oft diſcovered in a hollow Rock,</hi>
+                  </l>
+                  <l>
+                     <hi>Or in the Belly of an aged Oak.</hi>
+                  </l>
+               </lg>
+               <bibl>[Tranſlat. of <hi>Virgil.</hi>]</bibl>
+            </q>
+            <p>And at this day in many places it is not unuſual, to find Swarms in Trees and hol<g ref="char:EOLhyphen"/>low places in Buildings, &amp;c.</p>
+            <p>From whence their Swarms iſſuing out, it is probable that they were entie'd into Hives or other Receptacles prepared for them, which were firſt made of Rinds or Barks of Trees, in imitation, as may be ſup<g ref="char:EOLhyphen"/>poſed, of the hollow Trees they natural<g ref="char:EOLhyphen"/>ly placed themſelves in. Afterwards by degrees they began to make them of o<g ref="char:EOLhyphen"/>ther Materials: And ſome before <hi>Pliny's</hi> time, had made ſuch Hives, with that <hi>fiſſile Glaſs</hi> we call <hi>Iſland-glaſs,</hi> where with Ships
+<pb n="4" facs="tcp:37059:9"/> are glaz'd; and ſome of clear <hi>Horn,</hi> pla<g ref="char:EOLhyphen"/>ced in Frames to diſcover the Bees Work, although in vain Then they betook th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<g ref="char:EOLhyphen"/>ſelves to the making of <hi>Hives</hi> of Oſier<g ref="char:EOLhyphen"/>twigs, and ſuch like, and dawb'd them; as yet in many places are uſed. From all which it may be concluded, That <hi>Bees</hi> pre<g ref="char:EOLhyphen"/>ſerv'd in <hi>Colonies,</hi> and their increaſe by Swarms, is of that Antiquity, that no Hiſto<g ref="char:EOLhyphen"/>ry certainly mentions the firſt Invention of their management, unleſs you will cre<g ref="char:EOLhyphen"/>dit that of <hi>Ariſteus.</hi>
+            </p>
+         </div>
+         <div n="2" type="chapter">
+            <head>CHAP. II. <hi>of the Breeding of Bees.</hi>
+            </head>
+            <p>THat <hi>Bees</hi> are <hi>Inſects,</hi> and that the moſt, if not all, of <hi>Inſects</hi> are ſome<g ref="char:EOLhyphen"/>times engendred by Putrefaction, is not by any denied; <hi>Bees</hi> many times being en<g ref="char:EOLhyphen"/>gendred in the corrupted Carcaſes of Beaſts, according to the Poet;</p>
+            <q>
+               <l>Quatuor eximios praeſtanti corpore Tan<g ref="char:EOLhyphen"/>ros, &amp;c.</l>
+               <lg>
+                  <l>Four of his largeſt Bullocks forth he took,</l>
+                  <l>As many comely Heyfers never broke:</l>
+                  <pb n="5" facs="tcp:37059:9"/>
+                  <l>And when the ninth day bright <hi>Aurora</hi> ſhew'd,</l>
+                  <l>He worſhips <hi>Orpheus,</hi> and the wood re<g ref="char:EOLhyphen"/>view'd:</l>
+                  <l>A <hi>Wonder,</hi> not to be believ'd, he ſees</l>
+                  <l>From the diſſolved Entrails, <hi>Swarms of Bees.</hi>
+                  </l>
+                  <l>Which from the broken ribs reſounding fly,</l>
+                  <l>And in a thick Cloud ſally to the sky.</l>
+                  <l>On a tall top branch they Cluſter now,</l>
+                  <l>As Grapes hang dangling on the gentle bough.</l>
+               </lg>
+               <bibl>[<hi>Ogilby's</hi> Tranſl. of <hi>Virg. Geor.</hi> 4.]</bibl>
+            </q>
+            <p>To which end alſo the ſame Poet directs the very Method of ordering a <hi>Steer,</hi> ſome a <hi>Heyfer,</hi> others an <hi>Ox,</hi> limiting it to that <hi>Species,</hi> others producing other Inſects, that out of their Carcaſes Multitudes of Bees may be engendred. And it is not improba<g ref="char:EOLhyphen"/>ble that the Carcaſes of theſe Beaſts ſhould produce <hi>Bees,</hi> when we every Summer perceive, that other Beaſts that lie in the open Air do produce Inſects of other <hi>Spe<g ref="char:EOLhyphen"/>cies.</hi> But this of <hi>Bees</hi> may not ſo well ſuc<g ref="char:EOLhyphen"/>ceed in theſe Northern, as in the more Southern Parts of <hi>Europe,</hi> where our <hi>Poet</hi> lived.</p>
+            <p>It was the Opinion alſo of the ſame <hi>Poet</hi> and of others, that <hi>Bees</hi> gathered their Seed out of certain Leaves and Flowers,
+<pb n="6" facs="tcp:37059:10"/> and carried them to their <hi>Hives,</hi> out of which their young were produc'd.</p>
+            <q>
+               <lg>
+                  <l>'Tis ſtrange that <hi>Bees</hi> ſuch cuſtom ſhould maintain,</l>
+                  <l>
+                     <hi>Venus</hi> to ſcorn, in wanton luſt diſdain</l>
+                  <l>To waſte their ſtrength; and without throws they breed:</l>
+                  <l>But cull from Leaves and various Flowers their Seed.</l>
+               </lg>
+               <bibl>[The ſame Tranſlat.]</bibl>
+            </q>
+            <p>But this Opinion gains not much credit, nor is the other way practicable here. Therefore other ways for the Generation of theſe worthy Inſects are to be diſcovered. <hi>Ariſtotle</hi> himſelf thought it a work of great difficulty to diſcover it: And <hi>Butler</hi> in his <hi>Feminine Monarchy</hi> hath taken great pains about the Generation of the <hi>Queens, Princeſſes, Drones</hi> and <hi>Honey-Bees;</hi> to which <hi>Curious Tract</hi> we refer you, only from him ſhall obſerve, that <hi>Bees</hi> begin to Breed a<g ref="char:EOLhyphen"/>bout the middle of <hi>February,</hi> if they are well provided for and the Spring be for<g ref="char:EOLhyphen"/>ward, elſe in <hi>March,</hi> by laying their <hi>Eggs</hi> or Seed at the bottoms of their void <hi>Cells;</hi> which by the warmth of the <hi>Bees</hi> ſitting on them (the ſeaſon of the year concurring) are converted into Worms or Grubbs, as moſt Inſects are before they fly. Thus by
+<pb n="7" facs="tcp:37059:10"/> the old <hi>Bees</hi> ſitting on, warming, and feeding theſe Grubs, in about three weeks time, are a whole Set of theſe Inſects ge<g ref="char:EOLhyphen"/>nerated. And as the Spring comes on and Food increaſes, ſo do they increaſe their Breed, throughout the Months of <hi>March, April, May, June</hi> and <hi>July</hi> continually feed<g ref="char:EOLhyphen"/>ing their young, either with their old ſtock of Honey in bad Weather, or with new Food and Water, which they conti<g ref="char:EOLhyphen"/>nually gather and carry to their young if the Weather permit them to fly abroad; or elſe in building Combs, as far as their room will ſuffer them and as it is for their own convenience. And thus do they build and breed until the end of <hi>July</hi> and ſome<g ref="char:EOLhyphen"/>times after. For when <hi>Bees</hi> have done ſwarming you may be confident they have done breeding and not before.</p>
+            <p>But whether the Drones are the <hi>Males</hi> or <hi>Females,</hi> or whether the Females, if the Honey-Bees are ſuch, before Droning time have conceived for the enſuing year, I had rather ſubmit to the Judgement of the moſt Experienced and Ingenious <hi>Butler</hi> than endeavour to diſprove it.</p>
+            <p>However from his Writings and every Ingenious <hi>Bee-maſter's</hi> Annual Experience, I may ſafely conclude, that <hi>Bees</hi> do not ſpend their time in theſe Spring and Sum<g ref="char:EOLhyphen"/>mer-months
+<pb n="8" facs="tcp:37059:11"/> (whilſt they breed) in Luxu<g ref="char:EOLhyphen"/>ry and Idleneſs, as by ſome is imagined; but to maintain and increaſe their <hi>Colonies,</hi> during that part of the year that yields them plenty of Matter out of the various Bloſſoms that are abroad, for the build<g ref="char:EOLhyphen"/>ing of their Combs and feeding their young; until not only that Matter that is fit for thoſe uſes ceaſeth, but until the Leaves of the Oak and other <hi>Honey-bear<g ref="char:EOLhyphen"/>ing</hi> Leaves and Plants yield plenty of that <hi>Nectar</hi> or <hi>Celestial Dew</hi> that they lay up in ſtore for their Winter and Vernal Provi<g ref="char:EOLhyphen"/>ſion, and whereof their Maſters many times deprive them.</p>
+            <p>In vain therefore can it be expected, that this noble (yet indocile) Inſect, ſhould be either perſwaded to deſiſt from breed<g ref="char:EOLhyphen"/>ing ſooner than the ſeaſon of the year en<g ref="char:EOLhyphen"/>forceth them; or to gather <hi>Honey</hi> before it is to be had, as ſome would inſinuate into us to believe.</p>
+            <p>It is not to be fear'd (in caſe it were in our power to prevent them) that <hi>Bees</hi> will ever overſtock themſelves; for were the <hi>Hive</hi> never ſo full of <hi>Bees,</hi> they would the ſooner fill their <hi>Cells</hi> with <hi>Honey,</hi> and the better live over the Winter. And after they have kill'd their <hi>Drones,</hi> which they uſually do before the gathering of their
+<pb n="9" facs="tcp:37059:11"/> 
+               <hi>Honey,</hi> there is not an idle <hi>Bee</hi> nor a <hi>Beggar</hi> amongſt them.</p>
+         </div>
+         <div n="3" type="chapter">
+            <head>CHAP. III. <hi>Of Encreaſing and Swarming of Bees.</hi>
+            </head>
+            <p>MAny Attempts have been made by ſeveral Ingenious Perſons, for the encreaſe of <hi>Bees</hi> without the troubleſom and hazardous way of <hi>Swarming;</hi> by giv<g ref="char:EOLhyphen"/>ing them liberty in the Spring and Summer to ſwell their vaſt numbers into ſeveral Artificial <hi>Hives,</hi> ſet the one under or by the other. But when they are diſ<g ref="char:EOLhyphen"/>perſed into ſeveral <hi>Hives</hi> or <hi>Boxes,</hi> and near an equal proportion in each Box; yet when there <hi>Hives</hi> are ſeparated with the <hi>Bees</hi> in them, that part ſeparated from the old Stock will not thrive: A great Argu<g ref="char:EOLhyphen"/>ment of their want of, and love unto their <hi>King</hi> or <hi>Queen,</hi> which doubtleſs remains amongſt his greateſt Riches in the firſt Stock; from which if part of them volun<g ref="char:EOLhyphen"/>tarily ſeparate themſelves, by ſwarming with their Leader they ſoon betake them<g ref="char:EOLhyphen"/>ſelves to their work.</p>
+            <p>So that I could never obſerve from the Experience of any other, nor yet from my
+<pb n="10" facs="tcp:37059:12"/> own, although often and ſeriouſly attempt<g ref="char:EOLhyphen"/>ed, that the Stocks or Colonies of <hi>Bees</hi> could by other wayes or means, than by their own voluntary Swarming, be ever multiplied or increaſed.</p>
+            <p>Therefore if you deſign many Stocks in your <hi>Apiary,</hi> or that you keep your ordi<g ref="char:EOLhyphen"/>nary ſtock only for increaſe wherewith to ſtore your better Hives (hereafter diſcourſ<g ref="char:EOLhyphen"/>ed of) which you keep for the ſake of the <hi>Honey,</hi> be ſure not to over<g ref="char:EOLhyphen"/>hive your Bees; for the leſs the <hi>Hive</hi> is, the oftner they ſwarm. For Bees over-hived rarely in<g ref="char:EOLhyphen"/>creaſe, unleſs it be an early Swarm and in a good Summer. And in good Summers, an early Swarm not over-hived may caſt a Swarm it ſelf: A ſufficient argument that they ſpend not their time in Luxury and Idleneſs; and that although they have room enough in their <hi>Hives</hi> to make their <hi>Combs</hi> and ſtore themſelves with <hi>Honey,</hi> yet do they breed during the breeding<g ref="char:EOLhyphen"/>time, elſe could they not ſend forth a new Colony ſo ſoon; and cannot employ them<g ref="char:EOLhyphen"/>ſelves in gathering <hi>Honey</hi> before it falls.</p>
+            <p>The ſending forth of <hi>Swarms</hi> or <hi>Colonies</hi> doth not at all hinder or confound the <hi>Bees,</hi> it being but the work of two or three days to prepare for a <hi>Swarm:</hi> unleſs the badneſs of the weather prevent, which may
+<pb n="11" facs="tcp:37059:12"/> as well prevent them of working as of ſwarming. And after they are hived, they, the very next day, fall to making of Combs if the weather permit, and will in few days in fair weather have made large <hi>Combs</hi> and laid their Eggs or Seeds for an<g ref="char:EOLhyphen"/>other Breed. So that it cannot be reaſon<g ref="char:EOLhyphen"/>ably imagined that <hi>Bees</hi> are in any confu<g ref="char:EOLhyphen"/>ſion either before or after Swarming, or that they looſe any time beſides the day they ſwarm, as ſome have reported.</p>
+            <p>
+               <hi>Bees</hi> uſually ſwarm twice in a year, ſome<g ref="char:EOLhyphen"/>times thrice, and (though but ſeldom) four times in an extraordinary good year; ſo that there is no danger of a decay of your Stock, unleſs through your own neglect, but a certain hope and confidence of taking a Swarm every year from each <hi>Hive</hi> to ſupply your new <hi>Hives,</hi> (we are hereafter to treat of) without any diminution to your breeding Stock; and as may alſo be preſumed, a ſtore left for a future encreaſe, and thoſe that are ſuperannuated left for you into the bargain, ſo that care be al<g ref="char:EOLhyphen"/>ways taken not to over-hive them.</p>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="12" facs="tcp:37059:13"/>
+            <head>CHAP. IV. <hi>Of the Bee-Hives or Houſes.</hi>
+            </head>
+            <p>BEfore we did obſerve, that ſome of the ancient <hi>Bee-maſters</hi> had made <hi>Hives</hi> of tranſparent Matter, that they might the better diſcern the Work of the <hi>Bees;</hi> which it ſeems did not ſucceed ac<g ref="char:EOLhyphen"/>cording to expectation, elſe had they been more frequently uſed and approved of by the Reporters of them. <hi>Butler</hi> alſo con<g ref="char:EOLhyphen"/>demns the uſe of them to that intent. And moſt true it is, that you cannot through the cleareſt Glaſs diſcern their working, nor yet their Combs, unleſs in <hi>July</hi> or <hi>Au<g ref="char:EOLhyphen"/>gust</hi> about Noon, when moſt of the Bees are abroad, and their Company begin to wax thin by their killing their Drones and death of their old <hi>Bees,</hi> which now through their conſtant and extraordinary labour have worn out their Wings, and fall far from home, uncapable of ever re<g ref="char:EOLhyphen"/>turning.</p>
+            <q>
+               <lg>
+                  <l>For oft their Wings are torn on Rocks a<g ref="char:EOLhyphen"/>broad,</l>
+                  <l>Freely ſpending their Lives beneath their Load:</l>
+                  <pb n="13" facs="tcp:37059:13"/>
+                  <l>In Flow'rs and making Honey ſuch a pride</l>
+                  <l>They have, by which their Lives away do glide.</l>
+               </lg>
+               <bibl>[Virgil.]</bibl>
+            </q>
+            <p>Then may you diſcern the ends of their <hi>Combs</hi> filled with tranſparent <hi>N<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctar,</hi> but from that time they work not in making <hi>Combs</hi> nor yet in breeding.</p>
+            <p>Some have been of opinion, that by the light of theſe tranſparent Hives, theſe in<g ref="char:EOLhyphen"/>duſtrious Creatures do frame their work with more expendition and delight. To which I may anſwer, That in the darkeſt <hi>Cells or Caves</hi> they ſhape their Combs as curiouſly and artificially as in the moſt lightſome: And that in theſe that are tranſparent, the numerous labourers do ſo much obſcure their work, that you would think the Light of ſmall advantage to them. Therefore Glaſs for that purpoſe is of no great uſe.</p>
+            <p>It is likewiſe ſuppoſed that <hi>Bees</hi> take much pleaſure in the Light of theſe Hives, and ſo are thereby the more prompted to Induſtry: Whether that be ſo or not is difficult to determine.</p>
+            <p>But it is probable that an Hive made with large Squares of fine French or Dutch Glaſs, which is more tranſparent than the Engliſh, may not incommode the Bees;
+<pb n="14" facs="tcp:37059:14"/> eſpecially if each Glaſs-window hath its Shutter over it, to cloſe it from the cold as the weather requires it. This I am ſure that it yields the Spectators much pleaſure and delight to ſee theſe nimble Crea<g ref="char:EOLhyphen"/>tures always in Motion and full of buſineſs whileſt the weather is hot, al<g ref="char:EOLhyphen"/>though not that exprected and promiſed pleaſure of the view of their <hi>Architecture.</hi>
+            </p>
+            <p>Now if you deſign really to improve theſe Animals to their greateſt height of advantage, you muſt obſerve their true inclinations, and follow them in that very Method that naturally they themſelves tend unto. As</p>
+            <p n="1">1. In what place ſoever they deſign to inhabit, they begin their work above and work downwards.</p>
+            <p n="2">2. In a Narrow <hi>Hive</hi> or place where their number is great, they are much im<g ref="char:EOLhyphen"/>peded in their work; and in a broad Hive (ſo that their Number be proportionable) they begin many Combs according to their number, and do not ſo much hinder the one the other.</p>
+            <p n="3">3. In a tall <hi>Hive</hi> or other <hi>Cavity,</hi> when their Combs are of any conſiderable length they become weary, becauſe they conti<g ref="char:EOLhyphen"/>nually aſcend and deſcend in the narrow paſſages between the Combs; which is not
+<pb n="15" facs="tcp:37059:14"/> only troubleſom, but a great hindrance to thoſe that are below. For I have al<g ref="char:EOLhyphen"/>ways obſerved, that the uppermoſt part of the talleſt <hi>Hives</hi> are never with<g ref="char:EOLhyphen"/>out Bees; but at the coldeſt time of the day or night, then very full, and at the hotteſt times they are continually a<g ref="char:EOLhyphen"/>ſcending and deſcending. To prove which I once cut off with a ſharp knife, the top of a ſtraw <hi>Hive</hi> and ſome part of the Combs, thinking by that means that they would as well have paſſed out that way as at the bot<g ref="char:EOLhyphen"/>tom of the <hi>Hive;</hi> over which I placed a Glaſs-hive made after Mr. <hi>Hartlib's</hi> way, publiſhed in his Common weath of <hi>Bees,</hi> that in caſe the Bees would have always aſcended, they might have then built in the new Hive over them: but they would not forſake their Combs.</p>
+            <p n="4">4. The Bees always fix their work to the top of the <hi>Hives,</hi> and not to the Sticks only that are placed in the <hi>Hive,</hi> as by ſome is erroneouſly affirmed; thoſe Sticks being placed in the Hives by ſome to ſtrengthen them, that they ſhould not ſink with the weight of the Combs, by others to preſerve the Combs from breaking in caſe the <hi>Hives</hi> ſhould be leaned ſide ways or re<g ref="char:EOLhyphen"/>moved.</p>
+            <p n="5">5. They always Swarm for want of Room.</p>
+            <p n="6">
+               <pb n="16" facs="tcp:37059:15"/>6. A place cannot eaſily be over-ſtock'd with Bees, ſo that they have liberty to fly without incommoding the one the o<g ref="char:EOLhyphen"/>ther; but if the Country be barren or wanting of Meadow, Water and Oaks, it may be overſtock'd.</p>
+            <p>Therefore make a <hi>Box</hi> or <hi>Hive</hi> of about eight Inches in height in the Inſide, and a<g ref="char:EOLhyphen"/>bout twelve Inches broad, four ſquare, cloſe at the top and open at the bottom, with a Square of French or Dutch Glaſs on each ſide of about four or five Inches broad and five Inches deep, ſo g<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oved in that no Air may paſs through the ſides of it; which may be prevented by fixing it in with Paſte or Cotton-wool. Let there be Shutters or Covers for each Square of Glaſs, to be added and taken off at pleaſure, by means of ſmall Buttons or Haſps; or you may make it without Glaſs if you pleaſe. Let there be two <hi>Teeholes</hi> or <hi>Doors,</hi> the one in the middle of the one Square-ſide at the bottom, and the other in the middle of the other Square-ſide next adjoyning; that when this <hi>Hive</hi> ſtands with the one Door towards the South Eaſt, the other may be towards the South-Weſt, each door being about three Inches long and one third part of an inch deep.</p>
+            <p>Then make another <hi>Box</hi> or <hi>Hive</hi> of the
+<pb n="17" facs="tcp:37059:15"/> ſame depth, and about ſix or eight Inches broader, with two Squares of Glaſs on each ſide, two Doors on two of the ſides, that they may tend towards the ſame coaſts as the other: Let this Box be open at bot<g ref="char:EOLhyphen"/>tom alſo and cloſe at the top, except an hole in the Middle of about three Inches Diameter or Square. You may alſo make a third Box of about two Foot over or more, but of the ſame depth as the ſormer; always encreaſing the Num<g ref="char:EOLhyphen"/>ber of your Glaſs-ſquares, and Doors pro<g ref="char:EOLhyphen"/>portionable to the breadth of your ſides.</p>
+            <p>The Tops of theſe Boxes muſt be made of well-ſeaſon'd dry Wood, <hi>Oak, Beech, Fir</hi> or <hi>Sugar-cheſt,</hi> and made in Pannels joyned to prevent <hi>ſhrinking, ſwelling, warping, ſplitting, &amp;c.</hi> the ſides with Studds and Pannels, as every Joyner can direct you. The top on the inſide may be ei<g ref="char:EOLhyphen"/>ther of the Board as it is, which is beſt; or if you doubt that it will ſhrink you may line it with a thin Matt, as I have ſeen it, or Plaſter it with ſine Mortar made of Lime and Hair; always remembring to ſinge off the hair that may probably ſtick without the Mortar.</p>
+            <p>You may alſo make ſticks to hang in ſe<g ref="char:EOLhyphen"/>veral places of the Boxes, of about half an Inch ſquare, fixed in the upper part of the
+<pb n="18" facs="tcp:37059:16"/> Box and extending to the bottom or very near it, the better to preſerve the Combs ſteady, and to help the <hi>Bees</hi> the eaſier to come to their Combs.</p>
+            <p>The firſt of theſe Boxes you may take a ſwarm into it at Swarming time, and ſet it in its place where it is to ſtand, leaving both the Doors open to the coaſts before mentioned; which if the Swarm be great will be quickly filled. When you per<g ref="char:EOLhyphen"/>ceive it near full add the ſecond <hi>Box</hi> un<g ref="char:EOLhyphen"/>der it, placing the firſt on the middle of the undermoſt, leaving the hole in the middle open. This may be done in the cool of the evening or in the night. The next day will part of the Bees take to their new <hi>Box,</hi> but the greater number continue their former employment un<g ref="char:EOLhyphen"/>til they have quite filled the upper. Then will they fall to work in the low<g ref="char:EOLhyphen"/>er, and it's probable may fill that alſo the ſame Summer. As you find occaſion, you may add the third, and ſo a fourth or fifth, leaving the ſeveral Doors open in every Box whileſt you find there is occaſion; and as the weather grows colder and the <hi>Bees</hi> labour leſs, ſo you may leſſen their paſſages by ſmall Wedges, made flat and fit for that purpoſe; ſo you may keep their Glaſs ſhut as you think good. You may if you pleaſe
+<pb n="19" facs="tcp:37059:16"/> let your uppermoſt be a ſmall <hi>Straw-hive,</hi> which is as good, though not ſo comely or ſuitable, as that of Joyner's Work.</p>
+            <p>You may make a Frame of Wood on four Leggs, covered with Board or Lead, or what you pleaſe to place theſe <hi>Boxes</hi> in to preſerve them from the Wet, much whereof they will not endure. Let the drip be carried off from the two fore<g ref="char:EOLhyphen"/>moſt ſides, leſt it drive too much on the <hi>Hives</hi> or <hi>Bees.</hi> This <hi>Caſe</hi> or <hi>Bee-houſe</hi> muſt ſtand <hi>Arras</hi>-wiſe with one Corner towards the South, that the Boxes alſo may the better ſtand that way. It muſt have doors on every ſide: the two Back-doors may be whole, and made to open only when you have occaſion to move, order or view your <hi>Bees.</hi> The two Fore-doors may be made in ſeveral parts; the upper third part to open upwards, ſupported, dripping for<g ref="char:EOLhyphen"/>wards, by ſlender Iron-hooks, that the wind ſtir them not; theſe ſerve to keep the <hi>Bees</hi> and <hi>Boxes</hi> from <hi>Rain</hi> and <hi>Sun.</hi> The Un<g ref="char:EOLhyphen"/>der-doors may be made in halves, the one to hang on the Eaſt and Weſt-poſts, and the other on the South-poſts; thoſe on the South-poſts to be taken off the Hooks all the Summer, and in the Winter alſo, except when the <hi>Bees</hi> are to be total<g ref="char:EOLhyphen"/>ly confined. The Copper Cut will ſhew
+<pb n="20" facs="tcp:37059:17"/> you the form of the whole, as well <hi>Boxes</hi> as <hi>Bee-houſe.</hi>
+            </p>
+            <p>From this Form or Model of keeping of <hi>Bees</hi> theſe Conveniencies and Advantages will certainly enſue.</p>
+            <p n="1">1. The <hi>Bees</hi> have not far to aſcend, their Habitation being but low.</p>
+            <p n="2">2. They are not hindred for want of Room, nor for want of Entrance; their Doors are wide and on ſeveral ſides of the <hi>Hives</hi> or <hi>Boxes,</hi> that they have great free<g ref="char:EOLhyphen"/>dom of paſſage to and fro in the moſt buſie time of their Gathering.</p>
+            <p n="3">3. The <hi>Bees</hi> have the benefit of the <hi>Sun</hi> the whole day by this poſition of the <hi>Hive.</hi> In hot and dry weather the morning Sun is moſt neceſſary, to invite them abroad before the Dews are off the Fowers and Trees; and the evening Sun is neceſſary at all times.</p>
+            <p n="4">4. Their entrance or doors may eaſily be ſtraitned as the ſeaſon of the year re<g ref="char:EOLhyphen"/>quires.</p>
+            <p n="5">5. The <hi>Boxes</hi> themſelves may in the Winter be ſecured from cold Winds and Rains, and the warm Sun may be exclud<g ref="char:EOLhyphen"/>ed in the Winter-months, which ſhining on the <hi>Hives,</hi> tempts the Bees to come a<g ref="char:EOLhyphen"/>broad to their ruine, and uſually wakens them out of their Winter-fleeps; provo<g ref="char:EOLhyphen"/>king
+<pb n="21" facs="tcp:37059:17"/> them to expend their Proviſion, which in the Spring time, if the weather prove unſeaſonable, they may want.</p>
+            <p n="6">6. you may make uſe of your Glaſs-Windows at any time to view the nume<g ref="char:EOLhyphen"/>rous Colonies of theſe moſt laborious A<g ref="char:EOLhyphen"/>nimals.</p>
+            <p n="7">7. Theſe broad and flat Boxes will harbour with advantage, as many Bees as poſſibly can cohabit together in any one Colony, with all imaginable convenien<g ref="char:EOLhyphen"/>cy. And as they increaſe in Number, ſo m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y you increaſe your Boxes, until you find them at a ſtay: And then it is beſt to take them by the uſual way of Smothering by the ſume of Brimſtone, admitted by ſome hole left at the bottom of the <hi>Bee<g ref="char:EOLhyphen"/>houſe,</hi> and kept ſtopp'd until you have occaſion to uſe it for this purpoſe. For let not any one imagine, that their Honey can be taken from them and the Bees pre<g ref="char:EOLhyphen"/>ſerved; unleſs by ſome ſorts of driving mentioned by <hi>Butler</hi> in his <hi>Feminine Mo<g ref="char:EOLhyphen"/>narchy,</hi> which alſo are not commended.</p>
+            <p>The Bees will never forſake their Combs that are full of Honey, as I have ſeveral times experimented, as well by cutting off the top of the <hi>Hive</hi> and placing another over it, as by inverting a <hi>Hive</hi> with the bottom upwards and placing another over
+<pb n="22" facs="tcp:37059:18"/> it; wherein the <hi>Bees</hi> built ſome <hi>Combs,</hi> yet by far the greater part of them kept to their former old <hi>Hive.</hi> Therefore all the boaſts and affirmations of what hath been done to that purpoſe have been vain, unleſs ſuch pretended Experimenters have met with a new <hi>Species</hi> of Bees.</p>
+         </div>
+         <div n="5" type="chapter">
+            <head>CHAP. V. <hi>Of the Gathering of Bees.</hi>
+            </head>
+            <p>THeſe Animals ſpend their time, as long as the weather will permit and any thing will yield them matter to work upon, in gathering <hi>Honey</hi> either groſs or pure, or <hi>Wax,</hi> as their occaſions require and the ſeaſon of the year will afford them, ac<g ref="char:EOLhyphen"/>cording to the <hi>Poet,</hi>
+            </p>
+            <q>
+               <lg>
+                  <l>Now when bright <hi>Sol</hi> makes Winters Cold retreat,</l>
+                  <l>Behind the Earth and opens Heav'n with Heat,</l>
+                  <l>Forthwith they riſe, and thorough Groves and Woods</l>
+                  <l>Reap purple Flow'rs, and taſte the Cryſtal Floods:</l>
+                  <pb n="23" facs="tcp:37059:18"/>
+                  <l>By what inſtinct I know not; then they fly</l>
+                  <l>To their own Courts, and their dear Pro<g ref="char:EOLhyphen"/>geny.</l>
+                  <l>Next make their waxen Cells with greateſt Skill,</l>
+                  <l>And thoſe they with Celeſtial <hi>Nectar</hi> fill.</l>
+               </lg>
+               <bibl>[Tranſlat. of <hi>Virg.</hi>]</bibl>
+            </q>
+            <p>In the firſt of the Spring in <hi>Febru<g ref="char:EOLhyphen"/>ary,</hi> if the weather be fair, they will a<g ref="char:EOLhyphen"/>broad; and in that Month and the next, as the Spring is earlier and later, they ga<g ref="char:EOLhyphen"/>ther much on the <hi>Hazel, Dandelyon, Dazie, Violet, Withy, Alder, Daffodil, &amp;c.</hi> But a<g ref="char:EOLhyphen"/>bove any other Tree they moſt affect the <hi>Phyllirea;</hi> one ſort of them beareth in thoſe Months an abundance of greeniſh Bloſſoms which yield great plenty of a Gummy Ro<g ref="char:EOLhyphen"/>ſinny Sweat, which the Bees daily tranſport to their <hi>Hives,</hi> and yet it as often as the day reneweth. Nothing can be more ac<g ref="char:EOLhyphen"/>ceptable to your Bees than a Hedge of this Tree about your Apiary, it being a very cloſe Fence green all the Winter, and yield<g ref="char:EOLhyphen"/>ing ſo great a quantity of acceptable Food in the uſual time of their greateſt Ne<g ref="char:EOLhyphen"/>ceſſity.</p>
+            <p>Although theſe Trees are not now very common, yet are they eaſily propagated from Seeds, Layers or Slips. And I do aſ<g ref="char:EOLhyphen"/>ſure
+<pb n="24" facs="tcp:37059:19"/> you the effects of them to be as afore<g ref="char:EOLhyphen"/>ſaid, and do not adviſe it to your loſs, as a certain Author did to place the <hi>Elm</hi> a<g ref="char:EOLhyphen"/>bout your Apiary; a Tree that hath been always eſteemed injurious to Bees, not on<g ref="char:EOLhyphen"/>ly by ancient and experienced Bee-maſters, but our modern <hi>Botanicks.</hi> Nor as hath been adviſed to plant the <hi>Palm.</hi> tree, which neither Gold nor Silver can purchaſe to flouriſh in this Northern Clime.</p>
+            <p>The reſidue of the Spring do the Bees plentifully gather on the Bloſſoms of the <hi>Black-thorn, Bullace, Plum, Cherry, Pear, Apple, Goosberry, Peach,</hi> and many other Fruits and Flowers, of the Gardens as well as of the Meadows.</p>
+            <q>
+               <l>Them let ſweet Gardens with freſh Flowers Invite.</l> 
+               <bibl>[Virgil.]</bibl>
+            </q>
+            <p>Thus from one Tree and Bloſſom to ano<g ref="char:EOLhyphen"/>ther do theſe induſtrious Inſects gather their food, being more groſs than the fine Honey they gather in the Summer for their Winter-ſtore; this being but the <hi>Ambroſia,</hi> as <hi>Bu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ler</hi> terms it, ſerving only for preſent main<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nce for themſelves and their Brood for want of which (their old ſtock of f<gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Honey or <hi>Neotar</hi> being ſpent, and the wea hor bad that they cannot gather)
+<pb n="25" facs="tcp:37059:19"/> they often die. Therefore thoſe Plants that afford them moſt of this early Food ought to be propagated about your <hi>A<g ref="char:EOLhyphen"/>piary.</hi>
+            </p>
+            <p>When the <hi>Spring</hi> is a little paſt, and the Summer or <hi>May-month</hi> well entred, then the <hi>Bees</hi> proſecute their building, preparing Cells wherein to ſtore up their Treaſure for the ſucceeding Winter; not neglect<g ref="char:EOLhyphen"/>ing their Breeding, which they continue until Nature (their Miſtreſs) Prompteth them to decline it, and follow their work of gathering and ſtoring up their <hi>Nectar</hi> whileſt it is to be had. Every <hi>Bee</hi> hath his ſeveral Office, ſome to gather, others to build, &amp;c. as the <hi>Poet</hi> ob<g ref="char:EOLhyphen"/>ſerved.</p>
+            <q>
+               <lg>
+                  <l>For ſome provide, and by a Compact made,</l>
+                  <l>Labour abroad; others at home are ſtay'd</l>
+                  <l>To lay <hi>Narciſſus</hi> Tears, and yielding Gum,</l>
+                  <l>As the firſt Ground work of the Honey-Comb;</l>
+                  <l>Which with ſtiff Wax they finiſh to their praiſe:</l>
+                  <l>Others, the Nations hope, young Colonies raiſe.</l>
+                  <l>Another part the purest Honey ſtives,</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>ntil the liquid <hi>Nectar</hi> crack the <hi>Hives.</hi>
+                  </l>
+                  <pb n="26" facs="tcp:37059:20"/>
+                  <l>And ſome by Lot, attend the Gates t' in<g ref="char:EOLhyphen"/>form</l>
+                  <l>Approaching Show'rs, and to foretell a Storm;</l>
+                  <l>To eaſe the laden, or imbattell'd drive,</l>
+                  <l>The Drones, a ſlothful Cattel from the Hive.</l>
+               </lg>
+               <bibl>[Tranſlat. of <hi>Virg. Georg.</hi> 4.]</bibl>
+            </q>
+            <p>After the Summer <hi>Solſtice</hi> the pure <hi>Ne<g ref="char:EOLhyphen"/>ctar</hi> reſts on the Leaves of the <hi>Oak,</hi> and ſome other Trees, but moſt on the <hi>Oak;</hi> ſo long as theſe Dews fall, the <hi>Bees</hi> dayly lade themſelves home with it; they not o<g ref="char:EOLhyphen"/>mitting their making of Combs, nor as yet their Breeding.</p>
+            <p>Beſides from Trees, they gather much <hi>Honey</hi> from <hi>Thyme,</hi> chiefly to be nouriſhed in and near your <hi>Apiary,</hi> as the Poet ad<g ref="char:EOLhyphen"/>viſed.</p>
+            <q>
+               <lg>
+                  <l>Set <hi>Thime</hi> about their <hi>Hives,</hi> and <hi>Pines</hi> remove</l>
+                  <l>From lofty Hills, for they ſuch Plants do love.</l>
+               </lg>
+               <bibl>[Virg. Georg. 4.]</bibl>
+            </q>
+            <p>For Thyme yields much and very pure <hi>Honey.</hi> The <hi>Pines</hi> are only ſuppoſed to be for ſhelter, being ever green, in the room of which you may place <hi>Phyllirea,</hi> which is to be prefer'd, yielding both ſhel<g ref="char:EOLhyphen"/>ter and food.</p>
+            <pb n="27" facs="tcp:37059:20"/>
+            <p>After the Honey-dews are over, Bees gather but little; neither do they then build any more Cells, having no need of them, but fill at thoſe times all their Cells to the very top, not only with Honey, but all the Intervals with their Bodies.</p>
+            <p>So that if you ſhould ſeparate or drive the Bees from their Combs before the fall of the Honey-dews, and take the upper part, you would have but little advan<g ref="char:EOLhyphen"/>tage, by reaſon of the young Grubs you would have mixt with your impure Ho<g ref="char:EOLhyphen"/>ney. And if you ſhould ſeparate or drive them after, you would not leave where<g ref="char:EOLhyphen"/>with to maintain them over the Winter; and your driving of them, being a linger<g ref="char:EOLhyphen"/>ing Death, would prove greater cruel<g ref="char:EOLhyphen"/>ty to theſe Animals than a ſudden ſuf<g ref="char:EOLhyphen"/>focation.</p>
+            <p>Not but that they in the Autumn con<g ref="char:EOLhyphen"/>tinually employ themſelves in gather<g ref="char:EOLhyphen"/>ing very pure Honey in ſmall quantity, from the time of the Honey-dews, un<g ref="char:EOLhyphen"/>til the ſeverity of the Winter pro<g ref="char:EOLhyphen"/>hibits their Flight; but not enough to renew their Store for the ſucceeding Winter.</p>
+            <p>All which conſidered, you will ſoon be of the Poet's Opinion,</p>
+            <q>
+               <lg>
+                  <pb n="28" facs="tcp:37059:21"/>
+                  <l>Omnibus una quies operum, Labor omni<g ref="char:EOLhyphen"/>bus unus;</l>
+                  <l>All reſt at once, at once they labour all.</l>
+               </lg>
+               <bibl>[Virgil.]</bibl>
+            </q>
+         </div>
+      </body>
+      <back>
+         <div type="table_of_contents">
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>CHAP. I. <hi>OF the Vniverſality of Bees and the Antiquity of their Colonies</hi> pag. 1</item>
+               <item>CHAP. II. <hi>Of the Breeding of Bees.</hi> p. 4</item>
+               <item>CHAP. III. <hi>Of Encreaſing and Swarming of Bees.</hi> p. 9</item>
+               <item>CHAP. IV. <hi>Of the Bee-Hives or Houſes.</hi> p. 12</item>
+               <item>CHAP. V. <hi>Of the Gathering of Bees</hi> p. 22</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:37059:21"/>
+            <head>
+               <hi>Some Books lately printed for</hi> T. Dring, at <hi>the Harrow at</hi> Chancery-<hi>lane-end in</hi> Fleet-ſtreet.</head>
+            <p n="1">1. A Relation of the Conference be<g ref="char:EOLhyphen"/>tween <hi>William Laud</hi> Archbiſhop of <hi>Canterbury</hi> and Mr.<hi>Fiſher</hi> the Jeſuite. The third Edition, in <hi>Folio.</hi> Price 8 <hi>s.</hi>
+            </p>
+            <p n="2">2. <hi>Syſtema Agriculturae;</hi> the myſtery of Huſbandry diſcovered: Treating of the neweſt and moſt advantageous ways of im<g ref="char:EOLhyphen"/>proving all ſorts of Lands, <hi>Folio.</hi> Price 8 <hi>s.</hi>
+            </p>
+            <p n="3">3. <hi>England's</hi> Imminent Danger and only Remedy: Faithfully conſidered and repre<g ref="char:EOLhyphen"/>ſented, <hi>Octavo.</hi> Price 2 <hi>s. 6 d.</hi>
+            </p>
+            <p n="4">4. <hi>Ancilla pietatis;</hi> or the Handmaid to Private Devotion, by D.<hi>Featley.</hi> The ninth Edition, <hi>Octavo.</hi> Price 4 <hi>s.</hi>
+            </p>
+            <p n="5">5. Poems upon ſeveral occaſions, in En<g ref="char:EOLhyphen"/>gliſh and Latin. By <hi>John Milton;</hi> with a ſmall Tract of Education, to Mr. <hi>Hartlib,</hi> in <hi>Octavo.</hi> Price 2 <hi>s. 6 d.</hi>
+            </p>
+            <p n="6">6. The French Cook, preſcribing the choiceſt, neweſt and beſt ways of Cookery. The third Edition, <hi>Octavo.</hi> Price 2 <hi>s. 6 d.</hi>
+            </p>
+            <p n="7">7. <hi>Vinetum Britannicum;</hi> or a Treatiſe of Cider, and ſuch other Wines and Drinks that are extracted from all manner of Fruits growing in this Kingdom. Together with the Method of propagating all ſorts of Vi<g ref="char:EOLhyphen"/>nous
+<pb facs="tcp:37059:22"/> Fruit-trees. And Deſcription of the new invented <hi>Ingenio</hi> or Mill, for the more expeditious and better making of Ci<g ref="char:EOLhyphen"/>der. And alſo the right Method of making <hi>Metheglin</hi> and <hi>Birch-wine;</hi> with Copper-plates. By J. W. Gent. Printed 1676. Price 3 <hi>s. 6 d.</hi>
+            </p>
+            <p n="8">8. New and Curious Obſervations on the Art of Curing the Venereal diſeaſe, and the Accidents that it produces, Explicated by natural and Mechanical Principles, with the Effects of Mercury, and its other Remedies. By Mr. <hi>de Blegney.</hi> Engliſhed by <hi>W. Harris, M. D.</hi> Price 1 <hi>s. 6 d.</hi>
+            </p>
+            <p n="9">9. The Separation and Conſecration of Places for God's publick Service and Wor<g ref="char:EOLhyphen"/>ſhip, vindicated by <hi>Tho. Wemys.</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p n="10">10. The Ancient Method and manner of holding Parliaments in <hi>England.</hi> By <hi>H. El<g ref="char:EOLhyphen"/>ſynge</hi> Eſquire ſometime Clerk of the Par<g ref="char:EOLhyphen"/>liament; the Third Edition Enlarged. Price bound 2 <hi>s.</hi>
+            </p>
+            <p n="11">11. A compendious Collection of the Laws of <hi>England</hi> touching matters Criminal, faithfully collected and methodically di<g ref="char:EOLhyphen"/>geſted, not only for the uſe of Sheriffs. Juſtices of the Peace, Coroners, Clerks of the Peace and others within that Verge, but of all people in general. By <hi>J. B.</hi> Eſquire, in <hi>Octavo.</hi> Price bound 1 <hi>s. 6 d.</hi>
+            </p>
+            <p n="12">
+               <pb facs="tcp:37059:22"/>12. <hi>Jus Sigil<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> or the Laws of <hi>England</hi> touching his Majeſty's four Principal Seals, <hi>viz.</hi> The Great Seal, the Privy Seal, the Exchequer Seal and the Signet;alſo of thoſe Grand Officers, to whoſe Cuſtody theſe Seals are committed.</p>
+            <p n="13">13. Memoirs of the Affairs of <hi>France</hi> du<g ref="char:EOLhyphen"/>ring the Reign of the preſent King <hi>Lewis</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p n="14">14. The Four Ages of <hi>England,</hi> or the Iron Age, with other ſelect Poems written in the year 1648. in <hi>Octavo.</hi> Price 1 <hi>s.</hi>
+            </p>
+            <p n="15">15. The Devout Communicant exempli<g ref="char:EOLhyphen"/>fied in his behaviour before, at, and after the Sacrament. The third Edition, much corrected, in Twelves. Price 1. <hi>s. 6 d. plays.</hi>
+            </p>
+            <list>
+               <head>Plays.</head>
+               <item>Love and Honour.</item>
+               <item>Unfortunate Lovers.</item>
+               <item>
+                  <hi>Thierry</hi> and <hi>Theodoret.</hi>
+               </item>
+               <item>Woman-hater.</item>
+               <item>Changeling.</item>
+               <item>
+                  <hi>Albumazar.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Plays lately Printed.</head>
+               <item>Love-tricks, or the School of Complements. <hi>Com.</hi>
+               </item>
+               <item>
+                  <hi>Hero</hi> and <hi>Leander. Com.</hi>
+               </item>
+               <item>Amorous Prince, or the curious Husband. <hi>Com.</hi>
+               </item>
+               <item>Town-ſhifts, or the Suburb-Juſtice. <hi>Com.</hi>
+               </item>
+               <item>Six days Adventure, or the new <hi>Utopia. Com.</hi>
+               </item>
+               <item>Dumb Lady, or the Farrier made Phyſician. <hi>Com.</hi>
+               </item>
+               <item>Old Troop, or Monſieur <hi>Raggou. Com.</hi>
+               </item>
+               <item>The Rehearſal.</item>
+               <item>Gentleman Dancing-maſter. <hi>Com.</hi>
+               </item>
+               <item>
+                  <hi>Mamamouchi,</hi> or the Citizen turn'd Gentleman. <hi>Com.</hi>
+               </item>
+               <item>Fatal Jealouſie. <hi>Trag.</hi>
+               </item>
+               <item>Morning-ramble, or the Town-humours. <hi>Com.</hi>
+               </item>
+               <item>Empreſs of <hi>Morocco. Trag.</hi>
+               </item>
+               <pb facs="tcp:37059:23"/>
+               <item>Reformation. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>Careleſs Lovers.</item>
+               <item>Macbeth. <hi>Trag.</hi>
+               </item>
+               <item>Siege of <hi>Conſtantinopl<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Trag.</hi>
+               </item>
+               <item>Dutch Lover. <hi>Com.</hi>
+               </item>
+               <item>Country wife. <hi>Com.</hi>
+               </item>
+               <item>Woman turn'd Bully. <hi>Com.</hi>
+               </item>
+            </list>
+            <div type="notice">
+               <p>THere is now in the Preſs both a Latin and Engliſh Di<g ref="char:EOLhyphen"/>ctionary, compoſed by <hi>Tho. Hollyoke</hi> D. D. Son of <hi>Francis Hollyoke,</hi> the Learned Enlarger of <hi>Rider's</hi> Dictionary; which ſaid Dictionary is in part already printed in a fair large <hi>Folio,</hi> and will in a ſhort time be finiſhed &amp; publiſhed, &amp; will contain above 6000 words in the Engliſh, and 2000 in Latin, more than hath been in any Dictionary yet extant: Beſides, it will have the Phraſes, the Cuſtoms, Habits and Ceremonies of Countries, for the better underſtand<g ref="char:EOLhyphen"/>ing of the Latin Hiſtorians; not only fit for School-boys, but neceſſary and uſeful for all Students and Scholars whatſoever; and will be ſold by <hi>Tho. Dring,</hi> at the cor<g ref="char:EOLhyphen"/>ner of <hi>Chancery-lane in Fleet ſtreet,</hi> and others.</p>
+            </div>
+            <div type="notice">
+               <head>Now in the Preſs.</head>
+               <p>
+                  <hi>Pharamond,</hi> an excellent New Romance; the whole Work</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37059:23"/>
+         </div>
+      </back>
+   </text>
+</TEI>
